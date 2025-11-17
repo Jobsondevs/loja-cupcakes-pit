@@ -108,13 +108,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             <p style="text-align: center; margin-top: 1rem;">
                 Não tem conta? <a href="cadastro.php">Cadastre-se aqui</a>
             </p>
-
-            <!-- Login administrativo -->
-            <div style="margin-top: 2rem; padding: 1rem; background: #f8f9fa; border-radius: 8px;">
-                <h4>👑 Acesso Administrativo:</h4>
-                <p><strong>E-mail:</strong> admin@admin.com</p>
-                <p><strong>Senha:</strong> 123456</p>
-            </div>
         </div>
     </main>
 </body>
